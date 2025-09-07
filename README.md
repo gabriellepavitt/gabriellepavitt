@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Gabrielle Pavitt
 
-I'm an aspiring developer currently studying **Computing and IT** at the **Open University**. My background in tutoring and educational design fuels my passion for building tools that are structured, motivational, and meaningful. I'm especially interested in blending emotional storytelling with technical presentation—whether it's through tribute webpages, student trackers, or milestone templates.
-
+I'm an aspiring developer currently studying **Computing and IT** at the **Open University**. 
 ---
 
 ## 🚀 What I'm Learning
